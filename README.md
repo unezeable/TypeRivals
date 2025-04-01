@@ -27,5 +27,5 @@ Tapez la phrase affichée à l'écran aussi vite que possible. Chaque caractère
 ## 🔧 Installation
 1. Clonez le repo :
    ```sh
-   git clone https://github.com/votre-utilisateur/keytest-challenge.git
+   git clone https://github.com/unezeable/TypeRivals.git
 
