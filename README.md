@@ -1,0 +1,2 @@
+# TypeRivals
+fast typing competition.
